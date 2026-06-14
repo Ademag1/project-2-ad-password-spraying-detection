@@ -316,3 +316,11 @@ Validation de :
 ![Splunk Event Details](1781460060959.jpg)
 
 ![Authentication Failure Analysis](1781460147204.jpg)
+## Key Takeaways
+
+- Simulated a password spraying attack against Active Directory
+- Investigated Windows Event ID 4625 authentication failures
+- Correlated logs in Splunk and Wazuh
+- Mapped activity to MITRE ATT&CK T1110.003
+- Validated SIEM detection capabilities
+
