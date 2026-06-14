@@ -295,6 +295,8 @@ Validation de :
 * Cartographie MITRE ATT&CK
 * Opérations SOC
 
+
+
 ## Evidence
 
 ### Kerbrute Password Spraying Attack
@@ -302,25 +304,15 @@ Validation de :
 ![Kerbrute Attack](1781462225293.jpg)
 
 ### User List Creation
+![Splunk Detection](1781460216935.jpg)
+![Splunk Detection](1781460216935.jpg)
+![Wazuh Detection](1781460216876.jpg)
+
+### Splunk Event Details
 
 ![User List](1781460006096.jpg)
 
-### Splunk Detection Dashboard
-
-![Splunk Detection](1781460216935.jpg)
-
-### Splunk Event Details (Event ID 4625)
-
+### Wazuh Detection 
 ![Splunk Event Details](1781460060959.jpg)
-
-### Wazuh Detection Dashboard
-
-![Wazuh Detection](1781460216876.jpg)
-
-### Wazuh Alert Details
-
-![Wazuh Alert Details](1781460216764.jpg)
-
-### Authentication Failure Analysis
 
 ![Authentication Failure Analysis](1781460147204.jpg)
